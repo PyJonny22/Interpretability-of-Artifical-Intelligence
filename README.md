@@ -1,2 +1,2 @@
 # Interpretability-of-Artifical-Intelligence
-In this repo I will start to build up from the very basics of Interpretability methods and techniques. 
+In this repo we will start to develop the problem of AI Interpretability and Explainability from its very basics, including presentations, methods and demos. 
